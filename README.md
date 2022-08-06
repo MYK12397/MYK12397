@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**theabgarg/theabgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MYK12397/MYK12397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m **[Abhishek](https://github.com/theabgarg)**
+- 👋 Hi, I’m **[Yahiya](https://github.com/MYK12397)**
 - 👀 I’m interested and looking to collaborate on Web Development projects
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/mykyahiya/)**
